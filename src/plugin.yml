@@ -1,0 +1,3 @@
+name: APIPlugin
+main: APIPlugin.MainPlugin
+version: 0.1
